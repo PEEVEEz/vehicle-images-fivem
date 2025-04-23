@@ -11,6 +11,7 @@ on:
       - '**.gif'
       - '**.svg'
       - '**.webp'
+  workflow_dispatch:
 
 jobs:
   optimize:
